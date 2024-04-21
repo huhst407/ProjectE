@@ -1,4 +1,4 @@
-package com.yiliao.menzhen;
+package com.yiliao.menzhen.App;
 
 import java.awt.FlowLayout;
 import java.awt.GridLayout;

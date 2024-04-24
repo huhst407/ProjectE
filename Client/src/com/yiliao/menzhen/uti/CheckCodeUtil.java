@@ -1,4 +1,4 @@
-package com.yiliao.menzhen;
+package com.yiliao.menzhen.uti;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

@@ -39,12 +39,13 @@ public class Login extends JFrame{
         jp3.add(ok);
         jp3.add(quit);
 
-        this.setLayout(new GridLayout(3,1));
+        this.setLayout(new GridLayout(3,2));
         this.add(jp1);
         this.add(jp2);
         this.add(jp3);
         this.setAlwaysOnTop(true);
-        this.setSize(500, 300);
+        //this.setSize(1000, 900);
+        this.setBounds(300,200,5000,500);
         this.setVisible(true);
         this.setResizable(false);
         this.pack();

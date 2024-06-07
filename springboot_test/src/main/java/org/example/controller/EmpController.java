@@ -25,6 +25,6 @@ public class EmpController {
 
         //3. 响应数据
         return Result.success(empList);
-        ///http://localhost:8080/emp.html
+        ///http://a:8080/emp.html
     }
 }

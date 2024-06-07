@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringbootTestApplication {
-    //  http://localhost:8081/emp.html
+    //  http://10.233.16.247:90/emp.html
     public static void main(String[] args) {
         SpringApplication.run(SpringbootTestApplication.class, args);
     }
